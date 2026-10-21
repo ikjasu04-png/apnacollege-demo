@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first repository.
 <br>
-Author - Ik Jasu
+Author - Ik Jasu(Apna College)
